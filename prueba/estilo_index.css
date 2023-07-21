@@ -1,0 +1,57 @@
+nav a {
+	text-decoration:none;
+	color: inherit;
+	front-size:  14px;
+}
+
+nav li{
+	display:inline-block;
+	width: 10%;
+	padding: 5px 10px;
+	background-color: #000;
+	border: 1px solid #000;
+	text-align: center;
+	color: #fff;
+
+}
+
+nav li:hover{
+background-color: #fff;
+color: #000;
+}
+
+* {
+	color : #800000;
+}
+
+h1 {
+	color : #00bfff;
+}
+
+h2 {
+	color : #800080;
+}
+
+p {
+	color : #008000;
+}
+
+.clase-introduccion{
+	color : #000080;
+}
+
+#parrafo-A{
+	color : #ffa500;
+}
+
+[atributocolor="micolor"]{
+	color : #9932cc;
+}
+
+h2 p {
+	color : #00bfff;
+}
+
+.clase-direccion b:hover {
+	color : #000000;
+}
